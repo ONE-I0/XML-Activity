@@ -1,52 +1,224 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <games>
-    <player_mode mode = "Single Player">
-        <game_name>Hogwarts Legacy</game_name>
-        <game_description>Hogwarts Legacy is an immersive, open-world action RPG set in the world first 
-                        introduced in the Harry Potter books. For the first time, 
-                        experience Hogwarts in the 1800s.</game_description>
-        <developer>
-            <name_company>Avalance Software</name_company>
-            <founder>John Blackburn</founder>
-            <headquater>Salt Lake City, UTAH</headquater>
-            <founded>
-                <day>10</day>
-                <month>10</month>
-                <year>1995</year>
-            </founded>
-        </developer>
-        <prices>
-            <steam>₱2500</steam>
-            <epicgames>₱2500</epicgames>
-            <ps4_store>$59.99</ps4_store>
-            <ps5_store>$69.99</ps5_store>
-            <xbox_store>$69.99</xbox_store>
-        </prices>
-        <dates>
-            <announced>
-                <day>17</day>
-                <month>09</month>
-                <year>2020</year>
-            </announced>
-            <release>
-                <day>10</day>
-                <month>02</month>
-                <year>2023</year>
-            </release>
-        </dates>
-        <genres>
-            <genre_1>Magic</genre_1>
-            <genre_2>Fantasy</genre_2>
-            <genre_3>Action</genre_3>
-            <genre_4>Adventure</genre_4>
-            <genre_5>Open World</genre_5>
-        </genres>
-        <platforms>
-           <platforms_1>Microsoft Windows</platforms_1>
-           <platforms_2>PlayStation 4</platforms_2>
-           <platforms_3>PlayStation 4</platforms_3>
-           <platforms_4>Xbox</platforms_4>
-           <platforms_5>Nintendo Switch</platforms_5>
-        </platforms>
-    </player_mode>
+    <Hogwarts_Legacy>
+        <player_mode mode = "Single Player">
+            <game_description>Hogwarts Legacy is an immersive, open-world action RPG set in the world first 
+                            introduced in the Harry Potter books. For the first time, 
+                            experience Hogwarts in the 1800s.</game_description>
+            <developer>
+                <name_company>Avalance Software</name_company>
+                <founder>John Blackburn</founder>
+                <headquater>Salt Lake City, UTAH</headquater>
+                <founded>
+                    <day>10</day>
+                    <month>10</month>
+                    <year>1995</year>
+                </founded>
+            </developer>
+            <prices>
+                <steam>₱2500</steam>
+                <epicgames>₱2500</epicgames>
+                <ps4_store>$59.99</ps4_store>
+                <ps5_store>$69.99</ps5_store>
+                <xbox_store>$69.99</xbox_store>
+            </prices>
+            <dates>
+                <announced>
+                    <day>17</day>
+                    <month>09</month>
+                    <year>2020</year>
+                </announced>
+                <release>
+                    <day>10</day>
+                    <month>02</month>
+                    <year>2023</year>
+                </release>
+            </dates>
+            <genres>
+                <genre_1>Magic</genre_1>
+                <genre_2>Fantasy</genre_2>
+                <genre_3>Action</genre_3>
+                <genre_4>Adventure</genre_4>
+                <genre_5>Open World</genre_5>
+            </genres>
+            <platforms>
+                <PC>Microsoft Windows</PC>
+                <playstation>
+                    <playstation_4>PlayStation 4</playstation_4>
+                    <playstation_5>PlayStation 5</playstation_5>
+                </playstation>
+                <xbox>
+                    <xbox_series_x>X Series<xbox_series_x>
+                    <xbox_series_s>S Series<xbox_series_s>
+                    <xbox_one>ONE<xbox_one>
+                </xbox>
+                <Nintendo>Nintendo Switch</Nintendo>
+            </platforms>
+        </player_mode>
+    </Hogwarts_Legacy>
+    <Spiderman_Miles_Morales>
+        <player_mode mode = "Single Player">
+            <game_description>teenager Miles Morales is adjusting to his new home while following in 
+                            the footsteps of his mentor, Peter Parker, 
+                            as a new Spider-Man.</game_description>
+            <developer>
+                <name_company>Insomniac Games</name_company>
+                <founder>Ted Price</founder>
+                <headquater>Burbank, California, United States</headquater>
+                <founded>
+                    <day>28</day>
+                    <month>02</month>
+                    <year>1994</year>
+                </founded>
+            </developer>
+            <prices>
+                <steam>₱2490</steam>
+                <epicgames>₱2490</epicgames>
+                <ps4_store>$49.99</ps4_store>
+                <ps5_store>$49.99</ps5_store>
+                <xbox_store>$49.99</xbox_store>
+            </prices>
+            <dates>
+                <announced>
+                    <day>18</day>
+                    <month>11</month>
+                    <year>2022</year>
+                </announced>
+                <release>
+                    <day>9</day>
+                    <month>11</month>
+                    <year>2020</year>
+                </release>
+            </dates>
+            <genres>
+                <genre_1>Action</genre_1>
+                <genre_2>Adventure</genre_2>
+                <genre_3>SuperHero</genre_3>
+                <genre_4>Open World</genre_4>
+                <genre_5>Fighting game</genre_5>
+            </genres>
+            <platforms>
+                <PC>Microsoft Windows</PC>
+                <playstation>
+                    <playstation_4>PlayStation 4</playstation_4>
+                    <playstation_5>PlayStation 5</playstation_5>
+                </playstation>
+            </platforms>
+        </player_mode>
+    </Spiderman_Miles_Morales>
+    <Valorant>
+        <player_mode mode = "MultiPlayer">
+            <game_description>Valorant is a free-to-play first-person tactical 
+                            hero shooter developed and published by Riot Games</game_description>
+            <developer>
+                <name_company>Riot Games</name_company>
+                <founder>Brandon Beck</founder>
+                <headquater>Los Angeles, California</headquater>
+                <founded>
+                    <day>15</day>
+                    <month>09</month>
+                    <year>2006</year>
+                </founded>
+            </developer>
+            <prices>free</prices>
+            <dates>
+                <announced>
+                    <day>20</day>
+                    <month>10</month>
+                    <year>2019</year>
+                </announced>
+                <release>
+                    <day>07</day>
+                    <month>04</month>
+                    <year>2020</year>
+                </release>
+            </dates>
+            <genres>
+                <genre_1>Shooting</genre_1>
+                <genre_2>FPS</genre_2>
+                <genre_3>Tactical Shooter</genre_3>
+                <genre_4>Action</genre_4>
+            </genres>
+            <platforms>
+                <PC>Microsoft Windows</PC>
+            </platforms>
+        </player_mode>
+    </Valorant>
+    <League_of_Legends>
+        <player_mode mode = "MultiPlayer">
+            <game_description>League of Legends, commonly referred to as League, is a 
+                                2009 multiplayer online battle arena video game developed and published by Riot Games.</game_description>
+            <developer>
+                <name_company>Riot Games</name_company>
+                <founder>Brandon Beck</founder>
+                <headquater>Los Angeles, California</headquater>
+                <founded>
+                    <day>15</day>
+                    <month>09</month>
+                    <year>2006</year>
+                </founded>
+            </developer>
+            <prices>free</prices>
+            <dates>
+                <release>
+                    <day>27</day>
+                    <month>10</month>
+                    <year>2009</year>
+                </release>
+            </dates>
+            <genres>
+                <genre_1>MOBA</genre_1>
+                <genre_2>Action role-plaing game</genre_2>
+            </genres>
+            <platforms>
+                <PC>Microsoft Windows</PC>
+            </platforms>
+        </player_mode>
+    </League_of_Legends>
+    <Call_of_Duty_2.0>
+        <player_mode mode = "MultiPlayer">
+            <game_description>Call of Duty: Warzone is a free-to-play battle royale video game</game_description>
+            <developer>
+                <name_company>Raven Software</name_company>
+                <founder>Brian Raffel</founder>
+                <headquater>Middleton, Wisconsin, United States</headquater>
+                <founded>
+                    <day>10</day>
+                    <month>10</month>
+                    <year>1990</year>
+                </founded>
+            </developer>
+            <prices>free</prices>
+            <dates>
+                <announced>
+                    <day>15</day>
+                    <month>11</month>
+                    <year>2022</year>
+                </announced>
+                <release>
+                    <day>16</day>
+                    <month>11</month>
+                    <year>2022</year>
+                </release>
+            </dates>
+            <genres>
+                <genre_1>FPS</genre_1>
+                <genre_2>Battle Royale</genre_2>
+                <genre_3>Action</genre_3>
+            </genres>
+            <platforms>
+                <PC>Microsoft Windows</PC>
+                <playstation>
+                    <playstation_4>PlayStation 4</playstation_4>
+                    <playstation_5>PlayStation 5</playstation_5>
+                </playstation>
+                <xbox>
+                    <xbox_series_x>X Series<xbox_series_x>
+                    <xbox_series_s>S Series<xbox_series_s>
+                    <xbox_one>ONE<xbox_one>
+                </xbox>
+                <Nintendo>Nintendo Switch</Nintendo>
+            </platforms>
+        </player_mode>
+    </Call_of_Duty_2>
 </games>
