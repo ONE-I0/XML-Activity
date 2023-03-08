@@ -48,9 +48,9 @@
                     <playstation_5>PlayStation 5</playstation_5>
                 </playstation>
                 <xbox>
-                    <xbox_series_x>X Series<xbox_series_x>
-                    <xbox_series_s>S Series<xbox_series_s>
-                    <xbox_one>ONE<xbox_one>
+                    <xbox_series_x>X Series</xbox_series_x>
+                    <xbox_series_s>S Series</xbox_series_s>
+                    <xbox_one>ONE</xbox_one>
                 </xbox>
                 <Nintendo>Nintendo Switch</Nintendo>
             </platforms>
@@ -213,12 +213,12 @@
                     <playstation_5>PlayStation 5</playstation_5>
                 </playstation>
                 <xbox>
-                    <xbox_series_x>X Series<xbox_series_x>
-                    <xbox_series_s>S Series<xbox_series_s>
-                    <xbox_one>ONE<xbox_one>
+                    <xbox_series_x>X Series</xbox_series_x>
+                    <xbox_series_s>S Series</xbox_series_s>
+                    <xbox_one>ONE</xbox_one>
                 </xbox>
                 <Nintendo>Nintendo Switch</Nintendo>
             </platforms>
         </player_mode>
-    </Call_of_Duty_2>
+    </Call_of_Duty_2.0>
 </games>
